@@ -1,0 +1,152 @@
+{
+    "Asia Pacific": {
+        "MXAP:IND": {
+            "Name": "MSCI AC ASIA PACIFIC", 
+            "Value": "142.08", 
+            "% Change": "+0.14%", 
+            "Time (EST)": "2/3/2017", 
+            "Net Change": "+0.19", 
+            "1 Month": "+2.65%", 
+            "1 Year": "+17.98%"
+        }, 
+        "HSI:IND": {
+            "Name": "HANG SENG INDEX", 
+            "Value": "23,271.17", 
+            "% Change": "+0.61%", 
+            "Time (EST)": "1:08 AM", 
+            "Net Change": "+141.96", 
+            "1 Month": "+3.41%", 
+            "1 Year": "+20.65%"
+        }, 
+        "SHSZ300:IND": {
+            "Name": "CSI 300 INDEX", 
+            "Value": "3,365.53", 
+            "% Change": "+0.03%", 
+            "Time (EST)": "1:08 AM", 
+            "Net Change": "+1.04", 
+            "1 Month": "+0.53%", 
+            "1 Year": "+13.55%"
+        }, 
+        "NKY:IND": {
+            "Name": "NIKKEI 225", 
+            "Value": "18,976.71", 
+            "% Change": "+0.31%", 
+            "Time (EST)": "1:00 AM", 
+            "Net Change": "+58.51", 
+            "1 Month": "-2.46%", 
+            "1 Year": "+12.83%"
+        }, 
+        "AS51:IND": {
+            "Name": "S&P/ASX 200 INDEX", 
+            "Value": "5,615.58", 
+            "% Change": "-0.11%", 
+            "Time (EST)": "1:06 AM", 
+            "Net Change": "-6.00", 
+            "1 Month": "-2.43%", 
+            "1 Year": "+12.85%"
+        }, 
+        "TPX:IND": {
+            "Name": "TOPIX INDEX (TOKYO)", 
+            "Value": "1,520.42", 
+            "% Change": "+0.36%", 
+            "Time (EST)": "1:00 AM", 
+            "Net Change": "+5.43", 
+            "1 Month": "-2.12%", 
+            "1 Year": "+11.06%"
+        }
+    }, 
+    "Europe, Middle East & Africa": {
+        "CAC:IND": {
+            "Name": "CAC 40 INDEX", 
+            "Value": "4,825.42", 
+            "% Change": "+0.65%", 
+            "Time (EST)": "2/3/2017", 
+            "Net Change": "+31.13", 
+            "1 Month": "-1.72%", 
+            "1 Year": "+14.87%"
+        }, 
+        "SX5E:IND": {
+            "Name": "Euro Stoxx 50 Pr", 
+            "Value": "3,273.11", 
+            "% Change": "+0.60%", 
+            "Time (EST)": "2/3/2017", 
+            "Net Change": "+19.50", 
+            "1 Month": "-1.45%", 
+            "1 Year": "+13.67%"
+        }, 
+        "DAX:IND": {
+            "Name": "DAX INDEX", 
+            "Value": "11,651.49", 
+            "% Change": "+0.20%", 
+            "Time (EST)": "2/3/2017", 
+            "Net Change": "+23.54", 
+            "1 Month": "+0.45%", 
+            "1 Year": "+25.47%"
+        }, 
+        "UKX:IND": {
+            "Name": "FTSE 100 INDEX", 
+            "Value": "7,188.30", 
+            "% Change": "+0.67%", 
+            "Time (EST)": "2/3/2017", 
+            "Net Change": "+47.55", 
+            "1 Month": "-0.30%", 
+            "1 Year": "+22.92%"
+        }, 
+        "IBEX:IND": {
+            "Name": "IBEX 35 INDEX", 
+            "Value": "9,462.70", 
+            "% Change": "+0.60%", 
+            "Time (EST)": "2/3/2017", 
+            "Net Change": "+56.30", 
+            "1 Month": "-0.56%", 
+            "1 Year": "+11.33%"
+        }
+    }, 
+    "Americas": {
+        "INDU:IND": {
+            "Name": "DOW JONES INDUS. AVG", 
+            "Value": "20,071.46", 
+            "% Change": "+0.94%", 
+            "Time (EST)": "2/3/2017", 
+            "Net Change": "+186.55", 
+            "1 Month": "+0.54%", 
+            "1 Year": "+23.86%"
+        }, 
+        "NYA:IND": {
+            "Name": "NYSE COMPOSITE INDEX", 
+            "Value": "11,310.74", 
+            "% Change": "+0.85%", 
+            "Time (EST)": "2/3/2017", 
+            "Net Change": "+95.36", 
+            "1 Month": "+0.65%", 
+            "1 Year": "+20.45%"
+        }, 
+        "CCMP:IND": {
+            "Name": "NASDAQ COMPOSITE INDEX", 
+            "Value": "5,666.77", 
+            "% Change": "+0.54%", 
+            "Time (EST)": "2/3/2017", 
+            "Net Change": "+30.57", 
+            "1 Month": "+2.64%", 
+            "1 Year": "+29.88%"
+        }, 
+        "SPTSX:IND": {
+            "Name": "S&P/TSX COMPOSITE INDEX", 
+            "Value": "15,476.39", 
+            "% Change": "+0.50%", 
+            "Time (EST)": "2/3/2017", 
+            "Net Change": "+77.28", 
+            "1 Month": "-0.13%", 
+            "1 Year": "+21.25%"
+        }, 
+        "SPX:IND": {
+            "Name": "S&P 500 INDEX", 
+            "Value": "2,297.42", 
+            "% Change": "+0.73%", 
+            "Time (EST)": "2/3/2017", 
+            "Net Change": "+16.57", 
+            "1 Month": "+0.90%", 
+            "1 Year": "+22.20%"
+        }
+    }
+}
